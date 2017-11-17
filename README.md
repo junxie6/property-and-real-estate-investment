@@ -23,6 +23,10 @@ Rule #4: ~50% of the investment profit will be counted as the income. Then, the 
 
 - [ ] Is it near skytrain or bus station?
 
+- [ ] Is it near a shopping centre?
+
+- [ ] Is it near a school?
+
 - [ ] Is it in a high rise concrete building?
 
 - [ ] Is it a decent price?
@@ -31,7 +35,7 @@ Rule #4: ~50% of the investment profit will be counted as the income. Then, the 
 
 - [ ] How many rooms does it have?
 
-- [ ] Is it at least 6 floors higher?
+- [ ] Is it at least 6 floors or higher?
 
 - [ ] Which direction is it facing?
 
@@ -41,6 +45,14 @@ Rule #4: ~50% of the investment profit will be counted as the income. Then, the 
 
 - [ ] Is parking included?
 
+- [ ] Does it have a swimming pool (higher maintenance fees)?
+
+- [ ] Is it near a hospital (noise) or a fire hall?
+
+- [ ] Are there any rental restrictions?
+
+- [ ] Are there any pet restrictions?
+
 - [ ] How old is it?
 
 - [ ] Does the property have any lawsuits?
@@ -48,3 +60,5 @@ Rule #4: ~50% of the investment profit will be counted as the income. Then, the 
 - [ ] Does it have a hardwood flooring or carpet?
 
 - [ ] Did the owner have a pet?
+
+- [ ] Is it near a train railway?
