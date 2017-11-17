@@ -20,3 +20,11 @@ Rule #4: ~50% of the investment profit will be counted as the income. Then, the 
 # Checklist
 
 - [ ] Is it a good location?
+
+- [ ] Is it a decent price?
+
+- [ ] How much are the strata maintenance fees?
+
+- [ ] Do I have 20% down payment?
+
+- [ ] Is it beside a gas station?
