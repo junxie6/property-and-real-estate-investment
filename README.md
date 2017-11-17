@@ -5,7 +5,7 @@ Rule #1: Location location location.
 
 Rule #2: Buy right, refinance, and buy more.
 
-**Note:** You can refinance to a higher value, pull out some money to invest more once your asset grows.
+**Note:** You can refinance to a higher value, pull out some money to invest more once your asset has grown.
 
 **Note:** You need to know the rules for refinance, too.
 
