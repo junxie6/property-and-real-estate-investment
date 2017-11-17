@@ -62,3 +62,18 @@ Rule #4: ~50% of the investment profit will be counted as the income. Then, the 
 - [ ] Did the owner have a pet?
 
 - [ ] Is it near a train railway?
+
+- [ ] When is the subject removal date?
+
+- [ ] How much are the property transfer fees?
+
+- [ ] How much are the deposit fees?
+
+- [ ] Is my real estate agent available to process my case?
+
+- [ ] Is my mortgage broker available to process my case?
+
+- [ ] Is my home inspector available to process my case?
+
+- [ ] Is my lawyer available to process my case?
+
