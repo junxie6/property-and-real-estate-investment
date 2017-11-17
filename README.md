@@ -21,10 +21,30 @@ Rule #4: ~50% of the investment profit will be counted as the income. Then, the 
 
 - [ ] Is it a good location?
 
+- [ ] Is it near skytrain or bus station?
+
+- [ ] Is it in a high rise concrete building?
+
 - [ ] Is it a decent price?
 
 - [ ] How much are the strata maintenance fees?
 
+- [ ] How many rooms does it have?
+
+- [ ] Is it at least 6 floors higher?
+
+- [ ] Which direction is it facing?
+
 - [ ] Do I have 20% down payment?
 
 - [ ] Is it beside a gas station?
+
+- [ ] Is parking included?
+
+- [ ] How old is it?
+
+- [ ] Does the property have any lawsuits?
+
+- [ ] Does it have a hardwood flooring or carpet?
+
+- [ ] Did the owner have a pet?
