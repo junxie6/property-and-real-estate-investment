@@ -17,3 +17,6 @@ Rule #4: ~50% of the investment profit will be counted as the income. Then, the 
 
 **Note:** If you decided to move in to an investment property and make it as the principal residence, make sure you do get an market value and property assessment from a licensed appraiser (not the assessment from government). Otherwise, CRA may use any number they preferred to count the amount for tax. You should talk to your accountant for an advice.
 
+# Checklist
+
+[ ] Is it a good location?
