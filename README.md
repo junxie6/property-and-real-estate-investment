@@ -65,9 +65,11 @@ Rule #4: ~50% of the investment profit will be counted as the income. Then, the 
 
 - [ ] When is the subject removal date?
 
-- [ ] How much are the property transfer fees?
+- [ ] How much are the property transfer tax fees?
 
 - [ ] How much are the deposit fees?
+
+- [ ] How much are the real estate agent fees?
 
 - [ ] Is my real estate agent available to process my case?
 
