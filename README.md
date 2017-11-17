@@ -19,4 +19,4 @@ Rule #4: ~50% of the investment profit will be counted as the income. Then, the 
 
 # Checklist
 
-[ ] Is it a good location?
+- [ ] Is it a good location?
