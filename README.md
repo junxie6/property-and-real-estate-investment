@@ -33,10 +33,6 @@ Rule #4: ~50% of the investment profit will be counted as the income. Then, the 
 
 - [ ] How much are the strata maintenance fees?
 
-- [ ] What are the interest rate of my mortgage (5 years fixed?)?
-
-- [ ] How long is the amortization period of my mortgage?
-
 - [ ] How many rooms does it have?
 
 - [ ] Is it at least 6 floors or higher?
@@ -83,3 +79,10 @@ Rule #4: ~50% of the investment profit will be counted as the income. Then, the 
 
 - [ ] Is my lawyer available to process my case?
 
+# Mortgage Checklist
+
+- [ ] What are the interest rate of my mortgage (5 years fixed?)?
+
+- [ ] How long is the amortization period of my mortgage?
+
+- [ ] How much is the prepayment penalty charge?
