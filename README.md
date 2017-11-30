@@ -1,6 +1,29 @@
 # property-and-real-estate-investment
 Property and real estate investment
 
+=== [START NOT YET] ===
+landlord secret
+rent to own
+fix and flip
+===
+Cash flow
+
+Appreciation
+
+Principal buy down (tenant paying )
+
+Forced appreciation
+
+Like an annuity (give you the passive income )
+===
+Remove pension plans
+===
+For example: House value today 100k, Mortgage amount 80k. House value in 2 years 150k,  bank will give you 150k x 80% as mortgage amount of 120k. This new mortgage minus old mortgage. 120k-80k=40k cash you can put in your pocket
+===
+For example: 400,000x80%-300,000x80%=80k cash for you
+
+=== [END NOT YET] ===
+
 Rule #1: Location location location.
 
 Rule #2: Buy right, refinance, and buy more.
