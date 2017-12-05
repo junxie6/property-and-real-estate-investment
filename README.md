@@ -6,6 +6,8 @@ landlord secret
 rent to own
 fix and flip
 ===
+辦 mortgage 要先對 property 估價 (Market Value Vs. Appraised Value)，會影響 mortgage 價貸的額度。
+===
 Cash flow
 
 Appreciation
